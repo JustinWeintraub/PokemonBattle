@@ -2,7 +2,7 @@
 This is a project I made in the programming language Processing (based off of Java) that resembles a Pokemon Battle. 
 I use csv files that contain data then used that to emulate an actual Pokemon battle.
 I made the text and the health points update in real time and created a background that was realistic to the Pokemon game Pokemon Red and Blue.
-It can be controlled by the use of the arrow keys and the enter button. To play the game download one of the application folders that work for your device and run the respective start file inside of it.
+It can be controlled by the use of the arrow keys and the enter button.
 
 Here are some gifs demonstrating the game in action:
 
