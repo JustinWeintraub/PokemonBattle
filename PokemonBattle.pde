@@ -9,9 +9,9 @@ void setup(){
   
   background=new Background();
   
-  typeChart= loadTable("data/Type.csv", "header"); //loading csv files with data
-  moveList = loadTable("data/Moves.csv","header");
-  Table table = loadTable("data/Pokemon.csv", "header");
+  typeChart= loadTable("Type.csv", "header"); //loading csv files with data
+  moveList = loadTable("Moves.csv","header");
+  Table table = loadTable("Pokemon.csv", "header");
   
   for (TableRow row : table.rows()) {
     String name = row.getString("Name");
